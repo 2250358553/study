@@ -1,0 +1,3 @@
+﻿  demo01.c
+D:\A_VisualStudio_Code\Study_2022_04_21\Study_2022_04_21\demo01.c(11,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Study_2022_04_21.vcxproj -> D:\A_VisualStudio_Code\Study_2022_04_21\x64\Debug\Study_2022_04_21.exe
