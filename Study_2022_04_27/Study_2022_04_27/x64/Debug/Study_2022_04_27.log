@@ -1,0 +1,4 @@
+﻿D:\Visual Studio Community 2022\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Study_2022_04_27(三子棋).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+D:\A_VisualStudio_Code\Study_2022_04_27\Study_2022_04_27\test.c(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Study_2022_04_27.vcxproj -> D:\A_VisualStudio_Code\Study_2022_04_27\x64\Debug\Study_2022_04_27.exe
