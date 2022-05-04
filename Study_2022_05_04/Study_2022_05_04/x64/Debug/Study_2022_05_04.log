@@ -1,0 +1,4 @@
+﻿  demo01.c
+D:\A_VisualStudio_Code\Study_2022_05_04\Study_2022_05_04\demo01.c(244,15): warning C4090: “=”: 不同的“const”限定符
+D:\A_VisualStudio_Code\Study_2022_05_04\Study_2022_05_04\demo01.c(240,1): warning C4090: “初始化”: 不同的“const”限定符
+  Study_2022_05_04.vcxproj -> D:\A_VisualStudio_Code\Study_2022_05_04\x64\Debug\Study_2022_05_04.exe
