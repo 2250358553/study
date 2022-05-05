@@ -1,0 +1,3 @@
+﻿  demo01.c
+D:\A_VisualStudio_Code\Study_2022_05_05\Study_2022_05_05\demo01.c(40): warning C4716: “my_memcpy”: 必须返回一个值
+  Study_2022_05_05.vcxproj -> D:\A_VisualStudio_Code\Study_2022_05_05\x64\Debug\Study_2022_05_05.exe
